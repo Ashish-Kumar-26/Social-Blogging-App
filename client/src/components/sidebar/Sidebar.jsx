@@ -27,7 +27,7 @@ export default function Sidebar() {
           your blogs here in the page.
         </p>
       </div>
-      {/* <div className="sidebarItem">
+      <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
           {cats.map((c) => (
@@ -36,7 +36,7 @@ export default function Sidebar() {
             </Link>
           ))}
         </ul>
-      </div> */}
+      </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">FOLLOW US</span>
         <div className="sidebarSocial">
